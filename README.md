@@ -7,7 +7,7 @@ Users can manage channel name, logo and description of their channel.
 
 ## Deployment
 
-The web app is Deployed [Here](https://determined-shockley-5a064d.netlify.app/).
+The web app is Deployed [Here](https://clone-9ca26.web.app//).
 
 ## To Run Locally
 <br />
