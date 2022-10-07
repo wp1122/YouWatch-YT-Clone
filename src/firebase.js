@@ -3,13 +3,13 @@ import "firebase/auth";
 import "firebase/firestore"
 
 const app = firebase.initializeApp({
-  apiKey: "AIzaSyAHbgPLLGpbK3diMvplGUyxKVqonK059_8",
-  authDomain: "iititube.firebaseapp.com",
-  projectId: "iititube",
-  storageBucket: "iititube.appspot.com",
-  messagingSenderId: "680041520638",
-  appId: "1:680041520638:web:269ff005709caa311534af",
-  measurementId: "G-S1GRN4N1MP"
+    apiKey: "AIzaSyAUcNy7KFH3Ie93PyMShBfjcFaCJMRHpqI",
+  authDomain: "clone-9ca26.firebaseapp.com",
+  projectId: "clone-9ca26",
+  storageBucket: "clone-9ca26.appspot.com",
+  messagingSenderId: "875587869400",
+  appId: "1:875587869400:web:8823ebf424183ccf1495ad",
+  measurementId: "G-GJ8F7F6G0Z"
 })
 const firestore = app.firestore()
 export const database = {
